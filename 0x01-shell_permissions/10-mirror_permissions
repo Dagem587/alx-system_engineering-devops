@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --reverse hello
+ls -lt hello
